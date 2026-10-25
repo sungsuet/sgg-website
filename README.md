@@ -2,7 +2,7 @@
 
 Seongsu Engineering & Technology homepage: a static site (HTML, CSS, a little JS), no build step.
 
-Live site: https://hykimfnd.github.io/sgg-website/ (GitHub Pages, deployed from `main`)
+Live site: https://sungsuet.github.io/sgg-website/ (GitHub Pages, deployed from `main`)
 
 ## Run locally
 
